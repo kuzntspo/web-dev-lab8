@@ -11,7 +11,7 @@
 <body>
 <header class="header">
         <nav>
-            <img class="logo" src="/cat_white.png">
+            <img class="logo" src="cat_white.png">
             <div class="title">Facts about cats</div>
         </nav>
     </header>
